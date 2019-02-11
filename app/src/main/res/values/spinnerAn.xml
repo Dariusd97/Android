@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="years_arrays">
+        <item>An 1</item>
+        <item>An 2</item>
+        <item>An 3</item>
+        <item>An 1 master</item>
+        <item>An 2 master</item>
+    </string-array>
+</resources>

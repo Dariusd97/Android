@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">My Project</string>
+    <string name="user_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="login_button">Log in</string>
+    <string name="signup_button">Sign up</string>
+    <string name="label_text">Alegeti profilul:</string>
+    <string name="stud_button">STUDENT</string>
+    <string name="profesor_button">PROFESOR</string>
+    <string name="label_date">Introduceti datele:</string>
+    <string name="label_user">Username:</string>
+    <string name="text_username">nume.prenume</string>
+    <string name="label_email">Email:</string>
+    <string name="label_parola">Parola:</string>
+    <string name="confirma_parola">Confirma parola</string>
+    <string name="label_anStudiu">An Studiu:</string>
+    <string name="an1">An I licenta</string>
+    <string name="confirma_email">Confirma email</string>
+    <string name="label_grupa">Grupa:</string>
+    <string name="label_serie">Seria:</string>
+    <string name="Serial">Seria</string>
+    <string name="grupa">Grupa</string>
+    <string name="label_select_materii">Selecteaza materii:</string>
+    <string name="Materii">Selecteaza materii</string>
+    <string name="dialog_titlu">Materii</string>
+    <string name="ok_label">OK</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_all_label">Clear all</string>
+    <string name="checkbox_stud">Student</string>
+    <string name="checkbox_prof">Profesor</string>
+    <string name="btn_veziProfil">Vezi profil</string>
+    <string name="btn_teste">Teste</string>
+    <string name="btn_raporte">Rapoarte</string>
+    <string name="btn_start_test">Start test</string>
+    <string name="btn_rezultate_teste">Rezultate teste</string>
+    <string name="search_bar">Search here</string>
+    <string name="label_schimba_pass">Schimba Parola</string>
+    <string name="label_view_profile">View profile</string>
+    <string name="btn_logOut">Log out</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_Save">Save</string>
+    <string name="label_introduceti_pin">PIN</string>
+    <string name="btn_go">GO</string>
+    <string name="label_limba">Limba:</string>
+    <string name="btn_materii">Materii</string>
+
+    <string-array name="materii_item">
+        <item>Algebra</item>
+        <item>Analiza datelor</item>
+        <item>Analiza statistica multidimensionala</item>
+        <item>Baze de date</item>
+        <item>Bazele cercetarilor operationale</item>
+        <item>Bazele programarii calculatoarelor</item>
+        <item>Bazele statisticii</item>
+        <item>Bazele tehnologiei informatiei</item>
+        <item>Cercetari operationale</item>
+        <item>Cibernetica sistemelor economice</item>
+        <item>Demografie</item>
+        <item>Dinamica sistemelor economice</item>
+        <item>Dispozitive si aplicatii mobile</item>
+        <item>Econometrie</item>
+        <item>Economia si gestiunea riscului</item>
+        <item>Economie</item>
+        <item>Engleza</item>
+        <item>Finante</item>
+        <item>Inteligenta computationala in economie</item>
+        <item>Management</item>
+        <item>Metode statistice in managementul calitatii</item>
+        <item>Microeconomie cantitativa</item>
+        <item>Macroeconomie cantitativa</item>
+        <item>Modelarea si vizualizarea geospatiala a datelor statistice</item>
+        <item>Multimedia</item>
+        <item>Probabilitati si statistica matematica</item>
+        <item>Programare orientata obiect</item>
+        <item>Retele de calculatoare</item>
+        <item>Sondaje si anchete statistice</item>
+        <item>Statistica macroeconomica</item>
+        <item>Marketing</item>
+        <item>Tehnologii Web</item>
+        <item>Teoria jocurilor</item>
+
+    </string-array>
+    <string name="btn_CreazaTest">Add Test</string>
+    <string name="btn_View">View</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_share">Share</string>
+    <string name="lb_titlu">Titlu:</string>
+    <string name="lb_categorie">Categorie:</string>
+    <string name="lb_acces">Acces:</string>
+    <string name="lb_timpTest">Timp test:</string>
+    <string name="lb_incercari">Numar rulari:</string>
+    <string name="lb_amestecare_Q">Amestecare intrebari:</string>
+    <string name="lb_amestecare_Rasp">"Amestecare raspunsuri:    "</string>
+    <string name="btn_switch_Intrebari">"Amestecare intrebari:    "</string>
+    <string name="btn_switch_rasp">Amestecare raspunsuri:</string>
+    <string name="lb_Parcurgere_test">Mod parcurgere:</string>
+    <string name="lb_Intrebari">Intrebari:</string>
+    <string name="btn_addQ">Adauga Intrebare</string>
+    <string name="btn_apply">Apply</string>
+    <string name="tv_Intrebare">Intrebare</string>
+    <string name="tv_R1">Raspuns 1</string>
+    <string name="tv_R2">Raspuns 2</string>
+    <string name="tv_R3">Raspuns 3</string>
+    <string name="tv_R4">Raspuns 4</string>
+    <string name="lb_tip_raspuns">Tip raspuns:</string>
+    <string name="lb_timp_Q">Timp intrebare:</string>
+    <string name="add_imagecover">Adauga o imagine</string>
+    <string name="lb_numeechipa">Nume echipa:</string>
+    <string name="lb_participanti">Participanti:</string>
+    <string name="lb_NrParticipanti">Numar participanti:</string>
+    <string name="lb_grupa_introd">Introduceti grupa:</string>
+    <string name="pe_echipe">PE ECHIPE</string>
+    <string name="hint_nrEchipe">Numar echipe</string>
+    <string name="lb_test">Test</string>
+    <string name="lb_punctaj">Punctaj</string>
+    <string name="lb_data">Data</string>
+    <string name="selecteaza_grupa">Selecteaza grupa</string>
+    <string name="nume">Nume</string>
+    <string name="btn_cauta">Cauta</string>
+    <string name="btn_next">Next</string>
+    <string name="lb_corect">CORECT</string>
+    <string name="lb_incorect">INCORECT</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btn_stergeQ">Sterge Intrebare</string>
+    <string name="btn_grafic_studenti">Grafic</string>
+    <string name="btn_salvare_fisier_text">Salvare Text</string>
+    <string name="btn_salvare_fisier_csv">Salvare CSV</string>
+    <string name="lb_users">Introduceti un user:</string>
+    <string name="lb_drepturi_acces">Drepturi acces:</string>
+    <string name="btn_Send">TRIMITE TEST</string>
+    <string name="lb_descriere">Titlu test:</string>
+    <string name="hintt_titluDeTrimis">ex: Test1 Android</string>
+    <string name="lb_feedback">Feedback</string>
+</resources>
