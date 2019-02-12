@@ -44,5 +44,5 @@ din cont.
 mai are posibilitatea de a salva rezultatele intr-un fisier test sau csv.
 
 4.In activitatea `Teste` sunt afisate testele pe care profesorul le-a creat. Acesta le poate modifica, sterge sau partaja cu alti profesori. De asemenea are posibilitatea de a crea un test nou apasand pe butonul Add Test. Acesta il duce in activitatea `CreateTest` in care se seteaza optiunile pentru test si de aici poate adauga si intrebari la test. Dupa ce a selectat un test din cele create profesorul poate apasa pe butonul 'GO' care-l va duce in activitatea `StarteIndiviual`. Aici profesorul primeste un pin pe care il va da studentilor pentru a se conecta a test. Studentii conectati apar intr-un GridView tot in aceasta activitate. Dupa conectarea studentilor profesorul poate alete sa inceapa testul sau poate apasa pe butonul 'Pe echipe'. Acesta ii deschide o fereastra in care trebuie sa introduca numarul de echipe dupa care este trimis in activitatea 'StarteEchipe' in care sunt afisate echipe formate si de aici poate incepe testul.
- 
+
 
